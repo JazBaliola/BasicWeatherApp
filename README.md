@@ -1,2 +1,2 @@
 # WeatherApp
-Weather app using vanilla javascript.
+Weather app using XMLHttpRequest and vanilla javascript.
