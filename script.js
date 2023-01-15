@@ -1,5 +1,5 @@
 
-let apiKey = "4a39190cc19c96d5a4eacba92efed829"; // your unique api key here
+let apiKey = ""; // your unique api key here
 let geolocationObj = navigator.geolocation;
 let xhr = new XMLHttpRequest();
 
